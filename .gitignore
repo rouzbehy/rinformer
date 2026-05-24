@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# PyCharm hidden files and folders
+.idea
+
+# Scratch Work
+_scratch
